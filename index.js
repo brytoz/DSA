@@ -1,18 +1,31 @@
-function isPalindrome(string) {
-  let x = 0;
+// function abc() {
 
-  const len = string.length 
-  for (x; len > x ; x++) {
-    if(string.length % 2 !== 0) {
+//     const arr = [1,2,3,4,5]
 
+//     let xy = 0 
+
+//     arr.forEach((element) => (
+//         xy += element
+//     ))
+
+//     return xy
+// }
+
+// console.log(abc())
+
+function findMax() {
+    const arr = [3,10, 5, 8, 20, 30, 4]
+    let max = arr[0];
+    for (let i = 1; i < arr.length; i++) {
+        console.log(arr[i])
+      if (arr[i] > max) {
+        max = arr[i];
+      }
     }
-    console.log('wleomce');
-    console.log(string[x]);
+    return max;
   }
-}
-
+  
+  console.log(findMax());  
 
   
-console.log(isPalindrome("madam")); // Output: true
-console.log(isPalindrome("hello")); // Output: false
-
+ 
