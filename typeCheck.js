@@ -3,7 +3,7 @@ function typeCheck(object) {
 
   if (typeof object !== "object")
     throw new Error("You arguments must be an object");
-    if (Object.keys(a).length > 0) throw new Error("Your object values is empty");
+  //   if (Object.keys(a).length > 0) throw new Error("Your object values is empty");
 
   return new Proxy(
     { call },
