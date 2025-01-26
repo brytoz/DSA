@@ -1,0 +1,20 @@
+node.js is single thread or multi thread application ?" (topics: EventLoop)
+6:13 - "how can we make node.js simulate muti-threading?"
+7:00 - "have you ever heard about V8 Engine?"
+7:12 - "why nodeJS use V8?"
+8:22 - "what is the event loop?"
+9:45 - "what do you understand about callbacks?"
+10:20 - "have you ever heard about callback hell?"
+11:13 -  "what kind of framework have been using with nodejs"
+11:40 - "what's the difference between Express.Js and NestJS"
+12:50 - "what is dependency injection"
+13:53 - "what do you understand about Streaming"
+14:50 - "what do you understand about EventEmitter"
+15:50 - "what is the difference between Event Emitters and publisher and subscriber design pattern "
+17:14 - "what databases are you familiar with"
+18:00 - "in your understanding, what's the difference between mongodb and postgres"
+
+16:15 - "questions related to sql and no-sql databases will be asked at the end"
+19:24 - "do you have any experience with WebSockets"
+19:42 - "what's the difference bettween one that use WebSockets to communicate  with the backend, and one application that use RESTful API to do the same?
+20:44 "do you have experience with graphQL? and What is it?"
